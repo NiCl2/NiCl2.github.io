@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Clifton, PhD, AFHEA"
-image: "nc_image.jpg"
+image: "nc_image22.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.co.uk/citations?hl=en&user=q_cM_ogAAAAJ"
