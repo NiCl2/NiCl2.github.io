@@ -24,16 +24,16 @@ My research focuses on studying gene expression patterns of biological pathways 
 
 **[Cardiff University](https://www.cardiff.ac.uk/people/view/105079-clifton-nicholas)** Research Associate, MRC Centre for Neuropsychiatric Genetics and Genomics | 2021-2022
 
-**[Cardiff University]** Research Fellow, Neuroscience and Mental Health Research Institute | 2018-2021
+**Cardiff University** Research Fellow, Neuroscience and Mental Health Research Institute | 2018-2021
 
 **Cardiff University** Early Career Research Fellow, Neuroscience and Mental Health Research Institute | 2016-2018
 
 ## Selected Publications
 
+- Clifton NE, Bosworth ML, Haan N, Rees E, Holmans PA, Wilkinson LS, Isles AR, Collins MO, Hall J (2022). Developmental disruption to the cortical transcriptome and synaptosome in a model of SETD1A loss-of-function. Human Molecular Genetics, [https://doi.org/10.1093/hmg/ddac105](https://doi.org/10.1093/hmg/ddac105).
 - Clifton NE, Collado-Torres L, Burke EE, Pardinas AF, Harwood JC, Di Florio A, Walter JTR, Owen MJ, O’Donovan MC, Weinberger DR, Holmans PA, Jaffe AE, Hall J (2021). Developmental profile of psychiatric risk associated with voltage-gated cation channel activity. Biological Psychiatry, [https://doi.org/10.1016/j.biopsych.2021.03.009](https://doi.org/10.1016/j.biopsych.2021.03.009).
 - Clifton NE, Rees E, Holmans PA, Pardinas AF, Harwood JC, Di Florio A, Kirov G, Walter JTR, O’Donovan MC, Owen MJ, Hall J, Pocklington, AJ (2020). Genetic association of FMRP targets with psychiatric disorders. Molecular Psychiatry, [https://doi.org/10.1038/s41380-020-00912-2](https://doi.org/10.1038/s41380-020-00912-2).
-- Clifton NE, Hannon E, Harwood JC, Di Florio A, Thomas KL, Holmans PA, Walters JTR, O’Donovan MC, Owen MJ, Pocklington AJ, Hall J (2019). Dynamic expression of genes associated with schizophrenia and bipolar disorder across development. Translational Psychiatry, 9, 74. [https://doi.org/10.1038/s41398-019-0405-x](https://doi.org/10.1038/s41398-019-0405-x)
-- Clifton NE, Pocklington AJ, Scholz B, Rees E, Walters JTR, Kirov G, O’Donovan MC, Owen MJ, Wilkinson LS, Thomas KL, Hall J (2017). Schizophrenia copy number variants and associative learning. Molecular Psychiatry, 22:178-182. Immediate Communication [https://doi.org/10.1038/mp.2016.227](https://doi.org/10.1038/mp.2016.227)
+- Clifton NE, Hannon E, Harwood JC, Di Florio A, Thomas KL, Holmans PA, Walters JTR, O’Donovan MC, Owen MJ, Pocklington AJ, Hall J (2019). Dynamic expression of genes associated with schizophrenia and bipolar disorder across development. Translational Psychiatry, 9, 74. [https://doi.org/10.1038/s41398-019-0405-x](https://doi.org/10.1038/s41398-019-0405-x).
 
 ## Apps and Tools
 
