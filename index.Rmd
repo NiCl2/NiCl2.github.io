@@ -4,8 +4,8 @@ image: "nc_image22.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.co.uk/citations?hl=en&user=q_cM_ogAAAAJ"
-  - label: Twitter
-    url: "https://twitter.com/NE_Clifton"
+  - label: Bluesky
+    url: "https://bsky.app/profile/nicl2.bsky.social"
   - label: GitHub
     url: "https://github.com/NiCl2"
   - label: Email
@@ -20,7 +20,7 @@ My research focuses on studying gene expression patterns of biological pathways 
 
 ## Research Posts
 
-**[University of Exeter](http://medicine.exeter.ac.uk/people/profile/index.php?web_id=Nick_Clifton)** Senior Research Fellow, Exeter Medical School | 2022-Present
+**[University of Exeter](https://experts.exeter.ac.uk/38790-nicholas-clifton)** Senior Research Fellow, Exeter Medical School | 2022-Present
 
 **[Cardiff University](https://www.cardiff.ac.uk/people/view/105079-clifton-nicholas)** Research Associate, MRC Centre for Neuropsychiatric Genetics and Genomics | 2021-2022
 
@@ -30,15 +30,15 @@ My research focuses on studying gene expression patterns of biological pathways 
 
 ## Selected Publications
 
-- Clifton NE, Bosworth ML, Haan N, Rees E, Holmans PA, Wilkinson LS, Isles AR, Collins MO, Hall J (2022). Developmental disruption to the cortical transcriptome and synaptosome in a model of SETD1A loss-of-function. Human Molecular Genetics, [https://doi.org/10.1093/hmg/ddac105](https://doi.org/10.1093/hmg/ddac105).
-- Clifton NE, Collado-Torres L, Burke EE, Pardinas AF, Harwood JC, Di Florio A, Walter JTR, Owen MJ, O’Donovan MC, Weinberger DR, Holmans PA, Jaffe AE, Hall J (2021). Developmental profile of psychiatric risk associated with voltage-gated cation channel activity. Biological Psychiatry, [https://doi.org/10.1016/j.biopsych.2021.03.009](https://doi.org/10.1016/j.biopsych.2021.03.009).
+- Clifton NE, Lin JQ, Holt CE, O'Donovan MC, Mill J (2024). Enrichment of the Local Synaptic Translatome for Genetic Risk Associated With Schizophrenia and Autism Spectrum Disorder. Biological Psychiatry, [https://doi.org/10.1016/j.biopsych.2023.12.006](https://doi.org/10.1016/j.biopsych.2023.12.006)
+- Clifton NE, Bosworth ML, Haan N, Rees E, Holmans PA, Wilkinson LS, Isles AR, Collins MO, Hall J (2022). Developmental disruption to the cortical transcriptome and synaptosome in a model of SETD1A loss-of-function. Human Molecular Genetics, [https://doi.org/10.1093/hmg/ddac105](https://doi.org/10.1093/hmg/ddac105)
+- Clifton NE, Collado-Torres L, Burke EE, Pardinas AF, Harwood JC, Di Florio A, Walter JTR, Owen MJ, O’Donovan MC, Weinberger DR, Holmans PA, Jaffe AE, Hall J (2021). Developmental profile of psychiatric risk associated with voltage-gated cation channel activity. Biological Psychiatry, [https://doi.org/10.1016/j.biopsych.2021.03.009](https://doi.org/10.1016/j.biopsych.2021.03.009)
 - Clifton NE, Rees E, Holmans PA, Pardinas AF, Harwood JC, Di Florio A, Kirov G, Walter JTR, O’Donovan MC, Owen MJ, Hall J, Pocklington, AJ (2020). Genetic association of FMRP targets with psychiatric disorders. Molecular Psychiatry, [https://doi.org/10.1038/s41380-020-00912-2](https://doi.org/10.1038/s41380-020-00912-2).
-- Clifton NE, Hannon E, Harwood JC, Di Florio A, Thomas KL, Holmans PA, Walters JTR, O’Donovan MC, Owen MJ, Pocklington AJ, Hall J (2019). Dynamic expression of genes associated with schizophrenia and bipolar disorder across development. Translational Psychiatry, 9, 74. [https://doi.org/10.1038/s41398-019-0405-x](https://doi.org/10.1038/s41398-019-0405-x).
 
 ## Apps and Tools
 
 **[authentiSci](https://chrome.google.com/webstore/detail/authentisci/fdadlapmjbbbgoliolmlpkjknbfocjfk)** | Browser extension allowing scientists to provide feedback on the validity of online science news
 
-**[Block the Flock](https://play.google.com/store/apps/details?id=com.LemonStarBoy.BlocktheFlock&gl=GB)** | Competitive Android game, built in Unity
+**Block the Flock - no longer available on Play Store** | Competitive Android game, built in Unity
 
 
